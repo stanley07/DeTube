@@ -108,3 +108,4 @@ DTube is licensed under the [MIT license](https://github.com/AkhileshThite/DTube
 <hr>
 
 Hope you've learned something new. Don't forget to leave a 🌟 and <a href="https://twitter.com/cryptoroots_xyz" target="_blank"><img src="https://img.shields.io/twitter/follow/akhileshthite_?style=social" alt="twitter" /></a>
+# DeTube
